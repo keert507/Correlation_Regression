@@ -2,11 +2,11 @@
 
 Ex.no:03
 
-date :12/02/2026
+Date :12/02/2026
 
-name:Keerthana T
+Name:Keerthana T
 
-register no:212224100031
+Register no:212224100031
 
 # Aim : 
 
